@@ -1,0 +1,2 @@
+# AutoMaster Pro uses Python standard library only.
+# Tkinter is included with standard Python installations on Windows.
